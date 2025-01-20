@@ -15,6 +15,8 @@ A simple and efficient way to manage your daily tasks and never forget what need
 - **CSS**
 - **JavaScript**
 
-## Visit this project via web
+## Visit the Project
 
--https://samucafront.github.io/Lista-de-tarefas/
+You can access the project by clicking the link below:
+
+[To-Do List - View on GitHub Pages](https://samucafront.github.io/Lista-de-tarefas/)
