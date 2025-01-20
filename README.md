@@ -1,16 +1,16 @@
-# Lista de Tarefas
+# To-Do List
 
-Uma maneira simples e eficiente de gerenciar suas tarefas diárias e nunca mais esquecer o que precisa ser feito.
+A simple and efficient way to manage your daily tasks and never forget what needs to be done.
 
-## Como Funciona?
+## How It Works
 
-- ![Adicionar](https://img.icons8.com/ios/50/000000/add.png) **Adicionar tarefas** com um simples clique.
-- ![Concluir](https://img.icons8.com/ios/50/000000/checked.png) **Marcar tarefas como concluídas** para ver o progresso.
-- ![Excluir](https://img.icons8.com/ios/50/000000/delete.png) **Remover tarefas** que não são mais necessárias.
-- ![Organizar](https://img.icons8.com/ios/50/000000/organize.png) **Manter tudo organizado** sem complicação!
+- **Add tasks** with a single click.
+- **Mark tasks as completed** to track your progress.
+- **Remove tasks** that are no longer needed.
+- **Keep everything organized** with no hassle!
 
-## Tecnologias
+## Technologies
 
-- ![HTML](https://img.icons8.com/ios/50/000000/html-5.png) **HTML**
-- ![CSS](https://img.icons8.com/ios/50/000000/css3.png) **CSS**
-- ![JS](https://img.icons8.com/ios/50/000000/javascript.png) **JavaScript**
+- **HTML**
+- **CSS**
+- **JavaScript**
